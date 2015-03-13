@@ -1,0 +1,16 @@
+#Build files
+*.dcu
+*.exe
+*.identcache
+*.local
+*.res
+#####
+*.cfg
+*.ddp
+*.dof
+*.~ddp
+*.~dfm
+*.~pas
+
+#Folder
+__history/
